@@ -536,7 +536,7 @@ def enforce_policy(scan_results, policy):
 - **Compliance Audits**: Automated evidence collection
 
 ## 📊 Metrics & KPIs
-```
+```````
 Vulnerability Detection Rate:   99.5%
 False Positive Rate:           < 3%
 Scan Time:                     < 10 seconds
