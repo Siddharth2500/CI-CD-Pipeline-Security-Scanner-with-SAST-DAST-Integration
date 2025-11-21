@@ -224,7 +224,7 @@ Security Status:                🟠 HIGH RISK
 
 ❌ DEPLOYMENT BLOCKED: 10 critical issues must be resolved
    Action Required: Fix critical vulnerabilities before proceeding
-```
+```````
 
 ## 🎨 Visualizations Generated
 
