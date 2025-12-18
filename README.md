@@ -5,7 +5,6 @@ A comprehensive security scanning system that integrates Static Application Secu
 ---
 <img width="1989" height="1190" alt="image" src="https://github.com/user-attachments/assets/de4dae15-6614-4895-80ec-91e1ec45ed88" />
 
-------
 ## 🎯 Key Features
 - **Multi-Layer Security Scanning**: SAST, DAST, Secrets, Dependencies, Containers
 - **Automated Risk Scoring**: 0-100 score with pass/fail deployment decisions
