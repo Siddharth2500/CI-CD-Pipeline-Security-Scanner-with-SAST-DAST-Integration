@@ -15,7 +15,7 @@ A comprehensive security scanning system that integrates Static Application Secu
 - **Compliance Mapping**: CWE, OWASP, CVSS scoring
 - **Automated Remediation**: Provides fix recommendations for each issue
 - **Pipeline Gating**: Blocks deployment if critical issues found
-`````````````
+```
 ## 🛠️ Technology Stack
 - **Python 3.8+**
 - **Static Analysis**: Regex-based code scanning, AST parsing
