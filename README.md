@@ -211,7 +211,7 @@ Security Status:                🟠 HIGH RISK
 
 📊 Step 9: Creating security visualization dashboard...
 ✓ Visualization saved as 'cicd_security_scan.png'
-
+---
 ✅ Security scan complete!
 
 📁 Generated files:
