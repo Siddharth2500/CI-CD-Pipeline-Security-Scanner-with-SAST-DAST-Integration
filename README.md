@@ -4,7 +4,7 @@
 A comprehensive security scanning system that integrates Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), secrets detection, dependency vulnerability scanning, and container security analysis into CI/CD pipelines with automated risk scoring and deployment gating.
 ---
 <img width="1989" height="1190" alt="image" src="https://github.com/user-attachments/assets/de4dae15-6614-4895-80ec-91e1ec45ed88" />
----
+----
 ## 🎯 Key Features
 - **Multi-Layer Security Scanning**: SAST, DAST, Secrets, Dependencies, Containers
 - **Automated Risk Scoring**: 0-100 score with pass/fail deployment decisions
