@@ -1,5 +1,5 @@
 # 🔒 Project : CI/CD Pipeline Security Scanner with SAST/DAST
-----
+-----
 ## 📋 Overview
 A comprehensive security scanning system that integrates Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), secrets detection, dependency vulnerability scanning, and container security analysis into CI/CD pipelines with automated risk scoring and deployment gating.
 ----
