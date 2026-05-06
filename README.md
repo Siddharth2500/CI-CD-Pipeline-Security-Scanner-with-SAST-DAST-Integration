@@ -35,7 +35,7 @@ A comprehensive security scanning system that integrates Static Application Secu
 ```python
 # Copy to Colab and execute
 main()
-```
+`````
 
 ## 📊 Sample Output
 ```
